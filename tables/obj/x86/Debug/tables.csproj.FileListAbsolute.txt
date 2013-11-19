@@ -1,0 +1,7 @@
+C:\Users\epita\Desktop\tpc#1\sources\tables\tables\obj\x86\Debug\tables.Form1.resources
+C:\Users\epita\Desktop\tpc#1\sources\tables\tables\obj\x86\Debug\tables.Properties.Resources.resources
+C:\Users\epita\Desktop\tpc#1\sources\tables\tables\obj\x86\Debug\tables.csproj.GenerateResource.Cache
+C:\Users\epita\Desktop\tpc#1\sources\tables\tables\bin\Debug\tables.exe
+C:\Users\epita\Desktop\tpc#1\sources\tables\tables\bin\Debug\tables.pdb
+C:\Users\epita\Desktop\tpc#1\sources\tables\tables\obj\x86\Debug\tables.exe
+C:\Users\epita\Desktop\tpc#1\sources\tables\tables\obj\x86\Debug\tables.pdb
