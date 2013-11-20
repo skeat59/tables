@@ -7,3 +7,5 @@ C:\Users\epita\Desktop\tpc#1\sources\tables\tables\obj\x86\Debug\tables.exe
 C:\Users\epita\Desktop\tpc#1\sources\tables\tables\obj\x86\Debug\tables.pdb
 C:\Users\skeat\Documents\GitHub\tables\tables\obj\x86\Debug\tables.exe
 C:\Users\skeat\Documents\GitHub\tables\tables\obj\x86\Debug\tables.pdb
+C:\Users\epita\Documents\GitHub\tables\tables\obj\x86\Debug\tables.exe
+C:\Users\epita\Documents\GitHub\tables\tables\obj\x86\Debug\tables.pdb
